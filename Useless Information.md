@@ -3014,7 +3014,7 @@ Wer das hier ließt macht kein Mathe
 > Oh, eben ist ein Wunder geschehen... 
 > Ich habe in Mathe eine Zahl gesehen!
 
-\- Richard, nach mehr Variablen zwischen zwei "$ $" Zeichen als Zahlen
+\- Ersteller, nach mehr Variablen zwischen zwei "$ $" Zeichen als Zahlen
 
 >[!info]- Erläuterung
 >Zwischen den "$" schreibt man Mathe Formeln, damit es fancy✨ ausschaut.

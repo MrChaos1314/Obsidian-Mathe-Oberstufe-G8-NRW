@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Useless Information.md",
                 "mode": "source",
                 "source": false
               }
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "aufleiten",
+                "query": "Richard",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,12 +80,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 246.5110321044922,
-    "collapsed": true
+    "width": 246.5110321044922
   },
   "right": {
     "id": "bc2a9e59198800f3",
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Useless Information.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Useless Information.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Useless Information.md"
               }
             }
           },
@@ -200,8 +200,8 @@
   },
   "active": "9169c04a823ada14",
   "lastOpenFiles": [
-    "Mathe-Oberstufe Verzeichnis.md",
     "README.md",
+    "Mathe-Oberstufe Verzeichnis.md",
     "Gauß'sche Glockenfunktion als Wahrscheinlichkeitsdichte (Normalverteilung).md",
     "Z Test.md",
     "Normalverteilung.md",
