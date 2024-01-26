@@ -1,6 +1,6 @@
 #GK #Oberthema  #TBD 
 
-# Zurück
+# [[Mathe-Oberstufe Verzeichnis|Zurück]]
 
 ___
 # Inhaltsverzeichnis -Normalverteilung

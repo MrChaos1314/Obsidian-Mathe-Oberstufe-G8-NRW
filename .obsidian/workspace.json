@@ -20,21 +20,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "9130ff0c7bbd453f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Normalverteilung.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Normalverteilung.md",
+                "file": "Mathe-Oberstufe Verzeichnis.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Normalverteilung.md",
+                "file": "Mathe-Oberstufe Verzeichnis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Normalverteilung.md"
+                "file": "Mathe-Oberstufe Verzeichnis.md"
               }
             }
           },
@@ -197,11 +184,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "9130ff0c7bbd453f",
+  "active": "fcaa59d01f505078",
   "lastOpenFiles": [
-    "Gauß'sche Glockenfunktion als Wahrscheinlichkeitsdichte (Normalverteilung).md",
-    "Normalverteilung.md",
+    "Statistik bzw. Stochastik.md",
     "Mathe-Oberstufe Verzeichnis.md",
+    "Erwartungswert und Standardabweichung - Wahrscheinlichkeitsdichte.md",
+    "Normalverteilung.md",
+    "Gauß'sche Glockenfunktion als Wahrscheinlichkeitsdichte (Normalverteilung).md",
     "Useless Information.md",
     "README.md",
     "Z Test.md",
@@ -209,8 +198,6 @@
     "Assets/Pasted image 20240124192502.png",
     "Assets/Pasted image 20240124190725.png",
     "Stetige Zufallsgrößen.md",
-    "Erwartungswert und Standardabweichung - Wahrscheinlichkeitsdichte.md",
-    "Statistik bzw. Stochastik.md",
     "Wendepunkte.md",
     "Extremwertprobleme.md",
     "Ganzrationale Funktionen.md",

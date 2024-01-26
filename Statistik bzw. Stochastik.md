@@ -9,7 +9,6 @@ ___
 - [[Erwartungswert und Standardabweichung]] 
 - [[Bernoulli-Experimente]]
 - [[Hypothesentests]]
-- [[Normalverteilung]]
 
 ___
 # [[Daten und Zufall - Beschreibende Statistik]]
