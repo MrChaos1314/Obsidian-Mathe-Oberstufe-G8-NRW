@@ -3,6 +3,8 @@
 
 # Windows
 
+Die folgende Anleitung bezieht sich auf Windows 11 
+
 ## Benötigte Software
 
 - [Obsidian](https://obsidian.md/download) (Kostenlos)
