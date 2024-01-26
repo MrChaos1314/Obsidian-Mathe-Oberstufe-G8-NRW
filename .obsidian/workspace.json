@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gauß'sche Glockenfunktion als Wahrscheinlichkeitsdichte (Normalverteilung).md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5110321044922
+    "width": 246.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "bc2a9e59198800f3",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gauß'sche Glockenfunktion als Wahrscheinlichkeitsdichte (Normalverteilung).md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gauß'sche Glockenfunktion als Wahrscheinlichkeitsdichte (Normalverteilung).md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gauß'sche Glockenfunktion als Wahrscheinlichkeitsdichte (Normalverteilung).md"
+                "file": "README.md"
               }
             }
           },
@@ -183,8 +184,8 @@
   },
   "active": "9d5e6b937349fc7c",
   "lastOpenFiles": [
-    "Z Test.md",
     "Gauß'sche Glockenfunktion als Wahrscheinlichkeitsdichte (Normalverteilung).md",
+    "Z Test.md",
     "Normalverteilung.md",
     "Gauß'sche Glockenfunktion.md",
     "Assets/Pasted image 20240124192502.png",
