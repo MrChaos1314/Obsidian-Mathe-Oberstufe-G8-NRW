@@ -30,10 +30,10 @@ ___
 # Extra
 
 - # [[CAS-Befehle]]
-- # [[Operatoren]]
+- # [[Operatoren - NRW Abitur 2023-2024]]
  >[!hint]- Operatoren
  >
- >![[Operatoren]]
+ >![[Operatoren - NRW Abitur 2023-2024]]
 - # [[Useless Information]]
   
 ____

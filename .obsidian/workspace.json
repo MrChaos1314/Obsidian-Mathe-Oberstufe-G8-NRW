@@ -15,13 +15,26 @@
               "type": "markdown",
               "state": {
                 "file": "Mathe-Oberstufe Verzeichnis.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "pinned": true
             }
+          },
+          {
+            "id": "81504f1f742de191",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Operatoren - NRW Abitur 2023-2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -71,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5110321044922
+    "width": 246.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "bc2a9e59198800f3",
@@ -87,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe-Oberstufe Verzeichnis.md",
+                "file": "Operatoren - NRW Abitur 2023-2024.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathe-Oberstufe Verzeichnis.md",
+                "file": "Operatoren - NRW Abitur 2023-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathe-Oberstufe Verzeichnis.md"
+                "file": "Operatoren - NRW Abitur 2023-2024.md"
               }
             }
           },
@@ -184,10 +198,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "fcaa59d01f505078",
+  "active": "81504f1f742de191",
   "lastOpenFiles": [
-    "Statistik bzw. Stochastik.md",
     "Mathe-Oberstufe Verzeichnis.md",
+    "Operatoren - NRW Abitur 2023-2024.md",
+    "Statistik bzw. Stochastik.md",
     "Erwartungswert und Standardabweichung - Wahrscheinlichkeitsdichte.md",
     "Normalverteilung.md",
     "Gauß'sche Glockenfunktion als Wahrscheinlichkeitsdichte (Normalverteilung).md",
@@ -215,7 +230,6 @@
     "Trassierung.md",
     "Steckbriefaufgaben.md",
     "Bernoulli-Experimente.md",
-    "Sigma-Regel.md",
     "Assets/Pasted image 20240105125733.png",
     "Assets/Pasted image 20240105125611.png",
     "Assets/Pasted image 20240105125508.png",
