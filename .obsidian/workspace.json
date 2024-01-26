@@ -20,21 +20,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "81504f1f742de191",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Operatoren - NRW Abitur 2023-2024.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operatoren - NRW Abitur 2023-2024.md",
+                "file": "Mathe-Oberstufe Verzeichnis.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operatoren - NRW Abitur 2023-2024.md",
+                "file": "Mathe-Oberstufe Verzeichnis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operatoren - NRW Abitur 2023-2024.md"
+                "file": "Mathe-Oberstufe Verzeichnis.md"
               }
             }
           },
@@ -198,10 +185,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "81504f1f742de191",
+  "active": "fcaa59d01f505078",
   "lastOpenFiles": [
-    "Mathe-Oberstufe Verzeichnis.md",
     "Operatoren - NRW Abitur 2023-2024.md",
+    "Mathe-Oberstufe Verzeichnis.md",
     "Statistik bzw. Stochastik.md",
     "Erwartungswert und Standardabweichung - Wahrscheinlichkeitsdichte.md",
     "Normalverteilung.md",
