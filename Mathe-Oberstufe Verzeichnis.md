@@ -7,6 +7,7 @@
 - [[Exponentialfunktionen]]
 - [[Zusammengesetzte Funktionen]]
 - [[Statistik bzw. Stochastik]]
+- [[Normalverteilung]]
   
 ___
 # Wiederholung - EF
