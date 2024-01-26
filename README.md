@@ -20,7 +20,6 @@ Die folgende Anleitung bezieht sich auf Windows 11/10.
 - Wähle den Ordner aus, in dem die ZIP-Datei extrahiert/entpackt wurde
 - Vertraue den Ersteller des Vaults (trust), um den Vault zu optimieren 
 	(Sind die Einstellungen die ich verwendet habe. Sollte dem kein Vertrauen geschenkt werden, dann erwarte erst recht nicht das es gut ist)
-- Stelle sicher, dass oben rechts das Icon ein Stift ist (Lesemodus aktivieren)
 - Verzweifeln, weil es Mathe ist und fühl dich frei darin es nach deinen belieben zu erweitern ;)
 
 ---

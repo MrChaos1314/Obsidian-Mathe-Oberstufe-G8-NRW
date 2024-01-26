@@ -4,11 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "32d62b329a1fa014",
+        "id": "4d4385c8d42fdd03",
         "type": "tabs",
         "children": [
           {
-            "id": "9d5e6b937349fc7c",
+            "id": "fcaa59d01f505078",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathe-Oberstufe Verzeichnis.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "9169c04a823ada14",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,7 +33,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,11 +194,14 @@
       "templates:Vorlage einfügen": false,
       "command-palette:Befehlspalette öffnen": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "9d5e6b937349fc7c",
+  "active": "9169c04a823ada14",
   "lastOpenFiles": [
+    "Mathe-Oberstufe Verzeichnis.md",
+    "README.md",
     "Gauß'sche Glockenfunktion als Wahrscheinlichkeitsdichte (Normalverteilung).md",
     "Z Test.md",
     "Normalverteilung.md",
@@ -193,7 +211,6 @@
     "Stetige Zufallsgrößen.md",
     "Erwartungswert und Standardabweichung - Wahrscheinlichkeitsdichte.md",
     "Statistik bzw. Stochastik.md",
-    "Mathe-Oberstufe Verzeichnis.md",
     "Wendepunkte.md",
     "Extremwertprobleme.md",
     "Ganzrationale Funktionen.md",
@@ -213,7 +230,6 @@
     "Bernoulli-Experimente.md",
     "Sigma-Regel.md",
     "Erwartungswert und Standardabweichung.md",
-    "Vektorprodukt.md",
     "Assets/Pasted image 20240105125733.png",
     "Assets/Pasted image 20240105125611.png",
     "Assets/Pasted image 20240105125508.png",
