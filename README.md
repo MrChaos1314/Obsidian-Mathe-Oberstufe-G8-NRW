@@ -8,8 +8,7 @@ Im Folgenden wird erläutert, wie man sich Obsidian installiert und die Zusammen
 
 # Windows
 
-Die folgende Anleitung bezieht sich auf Windows 11.
-Auf Windows 10 sollte die Anleitung nicht abweichen. (TBD)
+Die folgende Anleitung bezieht sich auf Windows 11/10.
 
 ## Vorgehen 
 
