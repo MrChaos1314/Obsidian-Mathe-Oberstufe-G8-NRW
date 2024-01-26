@@ -13,11 +13,11 @@ Auf Windows 10 sollte die Anleitung nicht abweichen. (TBD)
 
 ## Vorgehen 
 
-- Lade dir den Repository Herunter 
-- Öffne die ZIP-Datei in einem leeren Ordner 
+- Lade dir den Repository als ZIP-Datei herunter (Grüner Button "< > Code" - als ZIP herunterladen)
+- Entpacke/Extrahiere die ZIP-Datei
 - Downloade [Obsidian](https://obsidian.md/download) 
 - Führe die Setup-Datei aus
-- In dem Pop-Up von Obsidian klicke auf _Ordner als Vault öffnen_.
+- In dem Pop-Up von Obsidian klicke auf _Ordner als Vault öffnen_ (ändere ggf. die Sprache zu deutsch)
 - Wähle den Ordner aus, in dem die ZIP-Datei extrahiert/entpackt wurde
 - Stelle sicher, dass oben rechts das Icon ein Stift ist
 - Öffne links in der Sidebar das Graph-Menü und wähle ein Thema aus (der lila Punkt ist das Verzeichnis)
