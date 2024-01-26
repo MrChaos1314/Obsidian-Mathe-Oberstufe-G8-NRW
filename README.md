@@ -19,9 +19,9 @@ Auf Windows 10 sollte die Anleitung nicht abweichen. (TBD)
 - Führe die Setup-Datei aus
 - In dem Pop-Up von Obsidian klicke auf _Ordner als Vault öffnen_ (ändere ggf. die Sprache zu deutsch)
 - Wähle den Ordner aus, in dem die ZIP-Datei extrahiert/entpackt wurde
-- Stelle sicher, dass oben rechts das Icon ein Stift ist
-- Öffne links in der Sidebar das Graph-Menü und wähle ein Thema aus (der lila Punkt ist das Verzeichnis)
-- Verzweifeln, weil es Mathe ist ;)
+- Vertraue den Ersteller des Vaults (trust) um den Vault zu optimieren (sind die Einstellungen die ich verwendet habe. Sollte dem kein Vertrauen geschenkt werden, dann erwarte erst recht nicht das es gut ist)
+- Stelle sicher, dass oben rechts das Icon ein Stift ist (Lesemodus aktivieren)
+- Verzweifeln, weil es Mathe ist und fühl dich frei darin es nach deinen belieben zu erweitern ;)
 
 ---
 # Mac OS
