@@ -1,9 +1,6 @@
-# Obsidian-Vault | Mathe Oberstufe G8 NRW
-
----
 # Anleitung
 
----
+
 # Windows
 
 ## Benötigte Software
