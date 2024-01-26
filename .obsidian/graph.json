@@ -1,0 +1,65 @@
+{
+  "collapse-filter": false,
+  "search": "tag:#Formel OR  tag:#Oberthema OR tag:#Unterthema   OR tag:#Regel  OR file:Mathe-Oberstufe",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#Oberthema  ",
+      "color": {
+        "a": 1,
+        "rgb": 16384000
+      }
+    },
+    {
+      "query": "tag:#Unterthema  ",
+      "color": {
+        "a": 1,
+        "rgb": 16765486
+      }
+    },
+    {
+      "query": "tag:#Formel ",
+      "color": {
+        "a": 1,
+        "rgb": 5429074
+      }
+    },
+    {
+      "query": "tag:#Regel  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "tag:#Wiederholung-EF  ",
+      "color": {
+        "a": 1,
+        "rgb": 31743
+      }
+    },
+    {
+      "query": "file:Mathe-Oberstufe",
+      "color": {
+        "a": 1,
+        "rgb": 11731117
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -0.9,
+  "nodeSizeMultiplier": 1.22291666666667,
+  "lineSizeMultiplier": 2.0140625,
+  "collapse-forces": true,
+  "centerStrength": 0.395833333333333,
+  "repelStrength": 20,
+  "linkStrength": 1,
+  "linkDistance": 108,
+  "scale": 0.11087320082576725,
+  "close": true
+}

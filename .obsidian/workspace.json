@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "416f1840e0ceac1f",
+    "type": "split",
+    "children": [
+      {
+        "id": "32d62b329a1fa014",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d5e6b937349fc7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gauß'sche Glockenfunktion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f56bb83478d92ea7",
+    "type": "split",
+    "children": [
+      {
+        "id": "05688021ed38401f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d736a1c2500a74a3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d28597b29ddc8923",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "aufleiten",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "44f099b7efed0b51",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 246.5110321044922,
+    "collapsed": true
+  },
+  "right": {
+    "id": "bc2a9e59198800f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c5a497bc0f666e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "332f28600b802927",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Gauß'sche Glockenfunktion.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "34797086fdabf9af",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Gauß'sche Glockenfunktion.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b60a88e071e519cf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0cf87fb62a28fdfc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Gauß'sche Glockenfunktion.md"
+              }
+            }
+          },
+          {
+            "id": "f5c516de3befa26f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "fc4dc6a37c28f585",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "8382dad6d5e59672",
+            "type": "leaf",
+            "state": {
+              "type": "style-settings",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graphen-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
+    }
+  },
+  "active": "9d5e6b937349fc7c",
+  "lastOpenFiles": [
+    "Assets/Pasted image 20240124192502.png",
+    "Assets/Pasted image 20240124190725.png",
+    "Normalverteilung.md",
+    "Gauß'sche Glockenfunktion.md",
+    "Stetige Zufallsgrößen.md",
+    "Erwartungswert und Standardabweichung - Wahrscheinlichkeitsdichte.md",
+    "Statistik bzw. Stochastik.md",
+    "Mathe-Oberstufe Verzeichnis.md",
+    "Wendepunkte.md",
+    "Extremwertprobleme.md",
+    "Ganzrationale Funktionen.md",
+    "Assets/Pasted image 20240115205148.png",
+    "Assets/Pasted image 20240111111057.png",
+    "Das Integral - Approximation von Flächen.md",
+    "Ableitung.md",
+    "Stammfunktion.md",
+    "Differenzenquotient.md",
+    "Funktionen.md",
+    "Lineare Funktionen.md",
+    "Nullstellen.md",
+    "Histogramme klassierter Daten.md",
+    "Stochastik - EF.md",
+    "Trassierung.md",
+    "Steckbriefaufgaben.md",
+    "Bernoulli-Experimente.md",
+    "Sigma-Regel.md",
+    "Erwartungswert und Standardabweichung.md",
+    "Vektorprodukt.md",
+    "Skalarprodukt - Zueinander orthogonale Vektoren.md",
+    "Assets/Pasted image 20240105125733.png",
+    "Assets/Pasted image 20240105125611.png",
+    "Assets/Pasted image 20240105125508.png",
+    "Unbenannt.canvas",
+    "Assets/Pasted image 20240103155720.png",
+    "Assets/Pasted image 20240103155631.png",
+    "$",
+    "Assets/Pasted image 20240103115932.png",
+    "Assets/Pasted image 20240103115845.png",
+    "Vorlagen",
+    "Unbenannt 1.canvas",
+    "Food",
+    "Food",
+    "Assets",
+    "Unbenannt 2.canvas"
+  ]
+}
