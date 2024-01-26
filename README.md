@@ -2,14 +2,14 @@
 
 Im Folgenden wird erläutert, wie man sich Obsidian installiert und die Zusammenfassung des Mathestoffes der Oberstufe (G8 NRW ABI 2023/2024) aufruft.
 
+## Benötigte Software
+
+- [Obsidian](https://obsidian.md/download) (Kostenlos)
+
 # Windows
 
 Die folgende Anleitung bezieht sich auf Windows 11.
 Auf Windows 10 sollte die Anleitung nicht abweichen. (TBD)
-
-## Benötigte Software
-
-- [Obsidian](https://obsidian.md/download) (Kostenlos)
 
 ## Vorgehen 
 
@@ -26,9 +26,7 @@ Auf Windows 10 sollte die Anleitung nicht abweichen. (TBD)
 ---
 # Mac OS
 
-## Benötige Software
-
-- [Obsidian](https://obsidian.md/download) (Kostenlos)
+Die folgende Anleitung ist noch nicht gegeben, da broke 
 
 ## Vorgehen
 
@@ -38,5 +36,5 @@ Auf Windows 10 sollte die Anleitung nicht abweichen. (TBD)
 ---
 # Mobile
 
-# TBD
+TBD (foreshadowing: du willst das nicht wollen)
 
