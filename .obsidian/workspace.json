@@ -20,21 +20,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "9169c04a823ada14",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Useless Information.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -63,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Richard",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,8 +67,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -101,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Useless Information.md",
+                "file": "Mathe-Oberstufe Verzeichnis.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Useless Information.md",
+                "file": "Mathe-Oberstufe Verzeichnis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Useless Information.md"
+                "file": "Mathe-Oberstufe Verzeichnis.md"
               }
             }
           },
@@ -198,10 +184,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "9169c04a823ada14",
+  "active": "fcaa59d01f505078",
   "lastOpenFiles": [
-    "README.md",
     "Mathe-Oberstufe Verzeichnis.md",
+    "Useless Information.md",
+    "README.md",
     "Gauß'sche Glockenfunktion als Wahrscheinlichkeitsdichte (Normalverteilung).md",
     "Z Test.md",
     "Normalverteilung.md",
@@ -229,7 +216,6 @@
     "Steckbriefaufgaben.md",
     "Bernoulli-Experimente.md",
     "Sigma-Regel.md",
-    "Erwartungswert und Standardabweichung.md",
     "Assets/Pasted image 20240105125733.png",
     "Assets/Pasted image 20240105125611.png",
     "Assets/Pasted image 20240105125508.png",
