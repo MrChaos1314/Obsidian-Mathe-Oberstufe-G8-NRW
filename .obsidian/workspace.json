@@ -181,12 +181,13 @@
       "templates:Vorlage einfügen": false,
       "command-palette:Befehlspalette öffnen": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "fcaa59d01f505078",
   "lastOpenFiles": [
+    "License",
     "Operatoren - NRW Abitur 2023-2024.md",
     "Mathe-Oberstufe Verzeichnis.md",
     "Statistik bzw. Stochastik.md",
@@ -216,7 +217,6 @@
     "Stochastik - EF.md",
     "Trassierung.md",
     "Steckbriefaufgaben.md",
-    "Bernoulli-Experimente.md",
     "Assets/Pasted image 20240105125733.png",
     "Assets/Pasted image 20240105125611.png",
     "Assets/Pasted image 20240105125508.png",
