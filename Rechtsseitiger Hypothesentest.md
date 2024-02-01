@@ -11,7 +11,7 @@ ___
 <br>
 
 ___
-# Beispiel
+# Vorgehen
 
 >[!write] Aufgabe
 >Du hast einen Würfel 120-mal geworfen und 27-mal eine Zwei erhalten.
@@ -20,7 +20,7 @@ ___
 
 <br>
 
->[!success]- Lösung
+>[!info]+ Vorgehen
 >- Definiere die Zufallsvariable X und ihre Verteilung:
 >
 >X: Anzahl der gewürfelten Zweien

@@ -6,12 +6,12 @@ ___
 # Definition
 
 >[!hint] Linksseitiger Hypothesentest
->Den **rechtsseitigen** Hypothesentest führst du durch, wenn du testen möchtest, ob eine Stichprobe **zu wenige Treffer** enthält.
+>Den **linksseitigen** Hypothesentest führst du durch, wenn du testen möchtest, ob eine Stichprobe **zu wenige Treffer** enthält.
 
 <br>
 
 ___
-# Beispiel
+# Vorgehen
 
 >[!write] Aufgabe
 >Du hast einen Würfel 120-mal geworfen und 12-mal eine Fünf erhalten.
@@ -21,7 +21,7 @@ ___
 
 <br>
 
->[!success]- Lösung
+>[!info]+ Vorgehen
 >- Definiere die Zufallsvariable X und ihre Verteilung:
 >
 >X: Anzahl der gewürfelten Fünfen

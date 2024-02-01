@@ -20,6 +20,14 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "44e77b83f715df86",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ]
       }
@@ -188,15 +196,20 @@
   },
   "active": "fcaa59d01f505078",
   "lastOpenFiles": [
-    "Bernoulli-Experimente.md",
-    "Statistik bzw. Stochastik.md",
     "Mathe-Oberstufe Verzeichnis.md",
+    "Analytische Geometrie.md",
+    "Lineare Gleichungssysteme.md",
+    "Rechtsseitiger Hypothesentest.md",
+    "Useless Information.md",
+    "Hypothesentests.md",
+    "Linksseitiger Hypothesentest.md",
+    "Statistik bzw. Stochastik.md",
+    "Bernoulli-Experimente.md",
     "License",
     "Operatoren - NRW Abitur 2023-2024.md",
     "Erwartungswert und Standardabweichung - Wahrscheinlichkeitsdichte.md",
     "Normalverteilung.md",
     "Gauß'sche Glockenfunktion als Wahrscheinlichkeitsdichte (Normalverteilung).md",
-    "Useless Information.md",
     "README.md",
     "Z Test.md",
     "Gauß'sche Glockenfunktion.md",
@@ -214,11 +227,6 @@
     "Differenzenquotient.md",
     "Funktionen.md",
     "Lineare Funktionen.md",
-    "Nullstellen.md",
-    "Histogramme klassierter Daten.md",
-    "Stochastik - EF.md",
-    "Trassierung.md",
-    "Steckbriefaufgaben.md",
     "Assets/Pasted image 20240105125733.png",
     "Assets/Pasted image 20240105125611.png",
     "Assets/Pasted image 20240105125508.png",
