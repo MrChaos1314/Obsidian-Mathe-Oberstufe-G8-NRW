@@ -10,3 +10,7 @@ ___
 - [[Erwartungswert und Standardabweichung - Wahrscheinlichkeitsdichte]]
 - [[Gauß'sche Glockenfunktion]]
 - [[Gauß'sche Glockenfunktion als Wahrscheinlichkeitsdichte (Normalverteilung)]]
+- [[Testen von Normalverteilung]] 
+
+# Extra
+- [[Abituraufgaben - Normalverteilung]]

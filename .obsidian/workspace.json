@@ -22,14 +22,19 @@
             }
           },
           {
-            "id": "44e77b83f715df86",
+            "id": "e0c39ab87955128b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Testen von Normalverteilung.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe-Oberstufe Verzeichnis.md",
+                "file": "Testen von Normalverteilung.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathe-Oberstufe Verzeichnis.md",
+                "file": "Testen von Normalverteilung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathe-Oberstufe Verzeichnis.md"
+                "file": "Testen von Normalverteilung.md"
               }
             }
           },
@@ -194,9 +199,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fcaa59d01f505078",
+  "active": "e0c39ab87955128b",
   "lastOpenFiles": [
+    "Abituraufgaben - Normalverteilung.md",
+    "Assets/Pasted image 20240202083933.png",
+    "Assets/Pasted image 20240202081957.png",
+    "Assets/Pasted image 20240202081536.png",
+    "Assets/Pasted image 20240202081357.png",
+    "Normalverteilung.md",
+    "Gauß'sche Glockenfunktion als Wahrscheinlichkeitsdichte (Normalverteilung).md",
     "Mathe-Oberstufe Verzeichnis.md",
+    "Testen von Normalverteilung.md",
     "Analytische Geometrie.md",
     "Lineare Gleichungssysteme.md",
     "Rechtsseitiger Hypothesentest.md",
@@ -208,8 +221,6 @@
     "License",
     "Operatoren - NRW Abitur 2023-2024.md",
     "Erwartungswert und Standardabweichung - Wahrscheinlichkeitsdichte.md",
-    "Normalverteilung.md",
-    "Gauß'sche Glockenfunktion als Wahrscheinlichkeitsdichte (Normalverteilung).md",
     "README.md",
     "Z Test.md",
     "Gauß'sche Glockenfunktion.md",
@@ -224,17 +235,10 @@
     "Das Integral - Approximation von Flächen.md",
     "Ableitung.md",
     "Stammfunktion.md",
-    "Differenzenquotient.md",
-    "Funktionen.md",
-    "Lineare Funktionen.md",
     "Assets/Pasted image 20240105125733.png",
     "Assets/Pasted image 20240105125611.png",
-    "Assets/Pasted image 20240105125508.png",
     "Unbenannt.canvas",
-    "Assets/Pasted image 20240103155720.png",
-    "Assets/Pasted image 20240103155631.png",
     "$",
-    "Assets/Pasted image 20240103115932.png",
     "Vorlagen",
     "Unbenannt 1.canvas",
     "Food",
