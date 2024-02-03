@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Testen von Normalverteilung.md",
+                "file": "Mathe-Oberstufe Verzeichnis.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Testen von Normalverteilung.md",
+                "file": "Mathe-Oberstufe Verzeichnis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Testen von Normalverteilung.md"
+                "file": "Mathe-Oberstufe Verzeichnis.md"
               }
             }
           },
@@ -199,7 +198,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e0c39ab87955128b",
+  "active": "fcaa59d01f505078",
   "lastOpenFiles": [
     "Abituraufgaben - Normalverteilung.md",
     "Assets/Pasted image 20240202083933.png",
