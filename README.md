@@ -58,6 +58,10 @@ TBD
 - Verschiebe den Ordner **in** den erstellten Vault (bei Verwendung des
 	Beispiels in "Mathe Qualifikationsphase")
 	→ Gehe auf Dateien → Auf mein iPhone/iPad → Obsidian → Dein Vault
-- Vertraue den Ersteller des Vaults (trust), um den Vault zu optimieren 
-	(Sind die Einstellungen die ich verwendet habe. Mostly UI. Sollte dem kein Vertrauen geschenkt werden, dann erwarte erst recht nicht das es gut ist)
+- Klicke oben rechts auf das Buch, damit ein Stift zu sehen ist 
+	  (Dann befindest du dich im Lese-Modus)
+	  (Sollte kein Buch oben rechts sein, dann überspringe den Schritt)
+- Klicke oben links, um die Sidebar zu öffnen 
+	  → Klicke nochmals, um eine bestimmte Notiz zu öffnen 
+	  → Suche Mathe-Oberstufe Verzeichnis
 - Verzweifeln, weil es Mathe ist und fühl dich frei darin es nach deinen belieben zu erweitern ;)
