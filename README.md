@@ -10,6 +10,10 @@ Es wird empfohlen nicht gänzlich auf alles hier zu vertrauen - Menschen machen 
 Bei Typos/Fehlern/Verständnisproblemen kann man mich dennoch gerne ansprechen oder anschreiben, um diese zu korrigieren bzw. besser auszuformulieren oder eine weitere Erläuterung zu schreiben.
 Bei Schwierigkeiten das Programm zum Laufen zu bekommen kann man mich ebenfalls gerne anschreiben/ansprechen.
 
+<br>
+<br>
+Die Zusammenfassung wurde auf PC ausgelegt. Dort findet man die "volle Erfahrung"
+
 ## Benötigte Software
 
 - [Obsidian](https://obsidian.md/download) (Kostenlos)
