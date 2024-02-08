@@ -65,3 +65,5 @@ TBD
 	  → Klicke nochmals, um eine bestimmte Notiz zu öffnen 
 	  → Suche Mathe-Oberstufe Verzeichnis
 - Verzweifeln, weil es Mathe ist und fühl dich frei darin es nach deinen belieben zu erweitern ;)
+
+Achtung, dass herumspielen bei den Properties kann den Graphen beeinflussen, hat aber kein folgen auf die Interaktion zwischen den Notizen!
