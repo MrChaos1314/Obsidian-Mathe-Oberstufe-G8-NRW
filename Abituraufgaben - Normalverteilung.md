@@ -1,3 +1,6 @@
+---
+cssclasses: hide_properties
+---
 # Abitur 2023 M LK HT B4 - Aufgabe b)
 
 > [!write] Aufgabenstellung 

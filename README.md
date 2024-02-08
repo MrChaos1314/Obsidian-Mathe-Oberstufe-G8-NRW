@@ -1,3 +1,6 @@
+---
+cssclasses: hide_properties
+---
 # Anleitung
 
 Im Folgenden wird erläutert, wie man sich Obsidian installiert und die Zusammenfassung des Mathestoffes der Oberstufe (G8 NRW ABI 2023/2024) aufruft.

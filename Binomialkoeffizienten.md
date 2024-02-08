@@ -1,4 +1,7 @@
-#Formel 
+---
+cssclasses: hide_properties
+tags: [Formel]
+---
 
 # [[Binomialverteilung|Zurück]]
 

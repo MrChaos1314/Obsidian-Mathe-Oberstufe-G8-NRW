@@ -1,4 +1,7 @@
-#Regel #Mathe #TBD 
+---
+cssclasses: hide_properties
+tags: [Regel, Mathe, TBD]
+---
 
 # Definition
 

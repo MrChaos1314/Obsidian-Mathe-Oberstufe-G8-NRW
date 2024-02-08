@@ -1,4 +1,7 @@
-#Mathe #Oberthema 
+---
+cssclasses: hide_properties
+tags: [Mathe, Oberthema]
+---
 
 # [[Mathe-Oberstufe Verzeichnis|Zurück zum Verzeichnis]]
 

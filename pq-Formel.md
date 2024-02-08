@@ -1,4 +1,7 @@
-#Mathe #Formel #TBD 
+---
+cssclasses: hide_properties
+tags: [Mathe, Formel, TBD]
+---
 
 # [[Nullstellen#Nullstelle berechnen mit pq-Formel|Zurück]]
 

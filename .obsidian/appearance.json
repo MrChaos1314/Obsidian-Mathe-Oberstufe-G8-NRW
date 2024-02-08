@@ -5,5 +5,8 @@
   "interfaceFontFamily": "Motiva Sans",
   "baseFontSize": 18,
   "translucency": true,
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "Properties"
+  ]
 }

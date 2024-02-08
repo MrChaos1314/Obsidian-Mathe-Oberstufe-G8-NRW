@@ -1,3 +1,6 @@
+---
+cssclasses: hide_properties
+---
 
 # Ungefähre Anzahl Wörter und Zeichen
 

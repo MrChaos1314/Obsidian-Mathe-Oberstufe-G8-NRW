@@ -1,4 +1,7 @@
-#GK #Unterthema 
+---
+cssclasses: hide_properties
+tags: [GK, Unterthema]
+---
 
 # [[Analytische Geometrie|Zurück]]
 

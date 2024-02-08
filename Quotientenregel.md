@@ -1,4 +1,7 @@
-#GK #Regel 
+---
+cssclasses: hide_properties
+tags: [GK, Regel]
+---
 
 # [[Regeln zur Ableitung - Scharfunktionen|Zurück]]
 

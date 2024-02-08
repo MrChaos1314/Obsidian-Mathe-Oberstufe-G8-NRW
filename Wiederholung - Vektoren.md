@@ -1,4 +1,7 @@
-#Wiederholung-EF #GK 
+---
+cssclasses: hide_properties
+tags: [Wiederholung-EF, GK]
+---
 
 # Einführung zu Vektoren
 

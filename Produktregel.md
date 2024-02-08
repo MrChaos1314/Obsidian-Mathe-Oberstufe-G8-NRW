@@ -1,4 +1,7 @@
-#Regel 
+---
+cssclasses: hide_properties
+tags: [Regel]
+---
 
 # [[Regeln zur Ableitung - Scharfunktionen|Zurück]]
 

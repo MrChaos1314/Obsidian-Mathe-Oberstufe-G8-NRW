@@ -1,4 +1,7 @@
-#GK #Unterthema
+---
+cssclasses: hide_properties
+tags: [GK, Unterthema]
+---
 
 # [[Zusammengesetzte Funktionen|Zurück]]
 

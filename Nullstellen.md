@@ -1,4 +1,7 @@
-#Mathe #TBD #Wiederholung-EF
+---
+cssclasses: hide_properties
+tags: [Mathe, TBD, Wiederholung-EF]
+---
 
 # [[Mathe-Oberstufe Verzeichnis#Wiederholung - EF|Zurück]]
 

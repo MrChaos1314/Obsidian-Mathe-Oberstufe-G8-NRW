@@ -1,4 +1,7 @@
-#CAS
+---
+cssclasses: hide_properties
+tags: [CAS]
+---
 
 # Inhaltsverzeichnis
 

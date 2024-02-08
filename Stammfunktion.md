@@ -1,4 +1,7 @@
-#Mathe #GK #Regel #Formel  #TBD 
+---
+cssclasses: hide_properties
+tags: [Mathe, GK, Regel, Formel, TBD]
+---
 
 # [[Das Integral - Approximation von Flächen|Zurück]]
 

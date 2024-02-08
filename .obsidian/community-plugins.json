@@ -14,5 +14,6 @@
   "obsidian-scroll-to-top-plugin",
   "obsidian-git",
   "obsidian-version-history-diff",
-  "homepage"
+  "homepage",
+  "obsidian-linter"
 ]

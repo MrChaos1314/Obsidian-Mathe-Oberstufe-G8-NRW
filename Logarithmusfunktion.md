@@ -1,4 +1,7 @@
-#GK #Unterthema #Fragen 
+---
+cssclasses: hide_properties
+tags: [GK, Unterthema, Fragen]
+---
 
 # [[Exponentialfunktionen|Zurück]]
 

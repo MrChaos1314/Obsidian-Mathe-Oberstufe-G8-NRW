@@ -1,4 +1,7 @@
-#GK #Oberthema  #TBD 
+---
+cssclasses: hide_properties
+tags: [GK, Oberthema, TBD]
+---
 
 # [[Mathe-Oberstufe Verzeichnis|Zurück]]
 

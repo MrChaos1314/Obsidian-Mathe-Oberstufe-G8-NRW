@@ -1,4 +1,7 @@
-#Sammy
+---
+cssclasses: hide_properties
+tags: [Sammy]
+---
 
 - [x] Tired Sam ✅ 2023-12-26
 - [x] Cute Sam ✅ 2023-12-26

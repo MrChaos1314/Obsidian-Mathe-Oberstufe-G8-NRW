@@ -1,4 +1,7 @@
-#Unterthema 
+---
+cssclasses: hide_properties
+tags: [Unterthema]
+---
 
 # [[Analytische Geometrie|Zurück]]
 

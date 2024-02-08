@@ -1,4 +1,7 @@
-#Fragen #Wiederholung-EF #Unterthema 
+---
+cssclasses: hide_properties
+tags: [Fragen, Wiederholung-EF, Unterthema]
+---
 
 # [[Mathe-Oberstufe Verzeichnis#Wiederholung - EF|Zurück zu Wiederholung-EF]]
 

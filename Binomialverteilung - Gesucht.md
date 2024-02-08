@@ -1,4 +1,7 @@
-#GK #Unterthema 
+---
+cssclasses: hide_properties
+tags: [GK, Unterthema]
+---
 
 # [[Bernoulli-Experimente|Zurück]]
 

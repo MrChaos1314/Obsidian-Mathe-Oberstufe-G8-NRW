@@ -1,4 +1,7 @@
-#Mathe #TBD #Wiederholung-EF #Fragen 
+---
+cssclasses: hide_properties
+tags: [Mathe, TBD, Wiederholung-EF, Fragen]
+---
 
 ## Form
 

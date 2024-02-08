@@ -1,4 +1,7 @@
-#Mathe #Wiederholung-EF 
+---
+cssclasses: hide_properties
+tags: [Mathe, Wiederholung-EF]
+---
 
 # [[Mathe-Oberstufe Verzeichnis#Wiederholung - EF| Zurück]]
 

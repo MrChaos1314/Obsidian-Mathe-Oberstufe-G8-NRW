@@ -1,4 +1,7 @@
-#Formel  #GK #Unterthema  
+---
+cssclasses: hide_properties
+tags: [Formel, GK, Unterthema]
+---
 
 # Definition
 

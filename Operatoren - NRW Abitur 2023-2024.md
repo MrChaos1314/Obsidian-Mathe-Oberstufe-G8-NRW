@@ -1,3 +1,6 @@
+---
+cssclasses: hide_properties
+---
 # Übersicht
 
 | Operator | Erläuterung |

@@ -1,4 +1,7 @@
-#Formel 
+---
+cssclasses: hide_properties
+tags: [Formel]
+---
 
 # [[Erwartungswert und Standardabweichung|Zurück zu Erwartungswert und Standardabweichung]]
 

@@ -22,5 +22,9 @@
   "minimal-advanced@@cursor": "pointer",
   "minimal-style@@blockquote-border-thickness": 3,
   "minimal-style@@blockquote-border-color@@light": "#00D43C",
-  "minimal-style@@blockquote-border-color@@dark": "#1EA108"
+  "minimal-style@@blockquote-border-color@@dark": "#1EA108",
+  "minimal-style@@metadata-heading-off": false,
+  "minimal-style@@metadata-dividers": false,
+  "minimal-style@@metadata-add-property-off": false,
+  "minimal-style@@metadata-icons-off": false
 }

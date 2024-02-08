@@ -1,4 +1,7 @@
-#Unterthema #GK 
+---
+cssclasses: hide_properties
+tags: [Unterthema, GK]
+---
 
 # [[Rechtsseitiger Hypothesentest]]
 

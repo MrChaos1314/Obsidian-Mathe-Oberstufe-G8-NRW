@@ -1,4 +1,7 @@
-#GK #LK #Unterthema 
+---
+cssclasses: hide_properties
+tags: [GK, LK, Unterthema]
+---
 
 # [[Integralrechnung|Zurück]]
 

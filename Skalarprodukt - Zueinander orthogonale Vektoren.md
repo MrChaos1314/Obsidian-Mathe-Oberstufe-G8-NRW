@@ -1,4 +1,7 @@
-#GK #Unterthema #TBD #Fragen 
+---
+cssclasses: hide_properties
+tags: [GK, Unterthema, TBD, Fragen]
+---
 
 # [[Analytische Geometrie|Zurück]]
 

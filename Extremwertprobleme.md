@@ -1,4 +1,7 @@
-#Unterthema 
+---
+cssclasses: hide_properties
+tags: [Unterthema]
+---
 
 # [[Ganzrationale Funktionen|Zurück]]
 

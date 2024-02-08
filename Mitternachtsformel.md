@@ -1,4 +1,7 @@
-#Mathe #Formel
+---
+cssclasses: hide_properties
+tags: [Mathe, Formel]
+---
 
 # [[Nullstellen#Nullstelle berechnen mit Mitternachtsformel|Zurück]]
 

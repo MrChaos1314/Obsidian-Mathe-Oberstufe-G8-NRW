@@ -1,0 +1,24 @@
+
+.workspace-leaf-content[data-mode="preview"]
+.markdown-preview-view
+.metadata-container{
+    display: none;
+}
+
+.workspace-leaf-content[data-mode="preview"]
+.markdown-preview-view.show_properties
+.metadata-container{
+    display: block;
+}
+
+.workspace-leaf-content[data-mode="preview"]
+.markdown-preview-view
+.metadata-add-button {
+    display: none;
+}
+
+.workspace-leaf-content[data-mode="preview"]
+.markdown-preview-view.show_add_property_btn
+.metadata-add-button {
+    display: inline-flex;
+}

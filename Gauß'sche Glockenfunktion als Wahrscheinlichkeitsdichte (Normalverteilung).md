@@ -1,4 +1,7 @@
-#GK #Unterthema #TBD 
+---
+cssclasses: hide_properties
+tags: [GK, Unterthema, TBD]
+---
 
 # Definition
 

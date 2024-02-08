@@ -1,4 +1,7 @@
-#Mathe #Formel #TBD #Fragen  
+---
+cssclasses: hide_properties
+tags: [Mathe, Formel, TBD, Fragen]
+---
 
 # Formel
 

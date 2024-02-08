@@ -1,4 +1,7 @@
-#Mathe #Unterthema 
+---
+cssclasses: hide_properties
+tags: [Mathe, Unterthema]
+---
 
 # [[Exponentialfunktionen|Zurück]]
 

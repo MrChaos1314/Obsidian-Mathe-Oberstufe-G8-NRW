@@ -1,4 +1,7 @@
-#Regel #GK 
+---
+cssclasses: hide_properties
+tags: [Regel, GK]
+---
 
 # [[Bernoulli-Experimente|Zurück]]
 

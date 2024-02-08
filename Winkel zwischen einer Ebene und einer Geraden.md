@@ -1,4 +1,7 @@
-#Formel 
+---
+cssclasses: hide_properties
+tags: [Formel]
+---
 
 >[!hint] Definition
 >Als **Winkel zwischen einer Ebene und einer Geraden** bezeichnet man den Winkel zwischen der Geraden und ihrer senkrechten Projektion in die Ebene.

@@ -1,3 +1,7 @@
+---
+cssclasses:
+  - hide_properties
+---
 
 # Inhaltsverzeichnis
 

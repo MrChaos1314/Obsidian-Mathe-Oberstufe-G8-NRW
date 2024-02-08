@@ -1,4 +1,7 @@
-#Wiederholung-EF #Unterthema 
+---
+cssclasses: hide_properties
+tags: [Wiederholung-EF, Unterthema]
+---
 
 # [[Ganzrationale Funktionen|Zurück zu ganzrationalen Funktionen]]
 
