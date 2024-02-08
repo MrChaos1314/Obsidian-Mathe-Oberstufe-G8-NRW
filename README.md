@@ -5,8 +5,8 @@ cssclasses: hide_properties
 
 ## Vorwort 
 
-Diese Zusammenfassung sollte als weiteres Mittel betrachtet werden, um für das Abitur zu lernen.
-Es wird empfohlen nicht gänzlich auf alles hier zu vertrauen - Menschen machen Fehler.
+Diese Zusammenfassung sollte als weiteres Mittel betrachtet werden, um für das Abitur zu lernen. <br>
+Es wird empfohlen nicht gänzlich auf alles hier zu vertrauen - Menschen machen Fehler. <br>
 Bei Typos/Fehlern/Verständnisproblemen kann man mich dennoch gerne ansprechen oder anschreiben, um diese zu korrigieren bzw. besser auszuformulieren oder eine weitere Erläuterung zu schreiben.
 Bei Schwierigkeiten das Programm zum Laufen zu bekommen kann man mich ebenfalls gerne anschreiben/ansprechen.
 

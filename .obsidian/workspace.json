@@ -20,8 +20,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "2226e4f15a0ae5de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe-Oberstufe Verzeichnis.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathe-Oberstufe Verzeichnis.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathe-Oberstufe Verzeichnis.md"
+                "file": "README.md"
               }
             }
           },
@@ -185,10 +198,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fcaa59d01f505078",
+  "active": "2226e4f15a0ae5de",
   "lastOpenFiles": [
-    "README.md",
     "Mathe-Oberstufe Verzeichnis.md",
+    "README.md",
     "CAS-Befehle.md",
     "Geraden in Parameterform.md",
     "Statistik bzw. Stochastik.md",
