@@ -15,50 +15,13 @@
               "type": "markdown",
               "state": {
                 "file": "Mathe-Oberstufe Verzeichnis.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "pinned": true
             }
-          },
-          {
-            "id": "e0c39ab87955128b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geraden in Parameterform.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1956346e08bed40f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Erwartungswert.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e43a349e7e1003ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bernoulli-Experimente.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,8 +67,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -126,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bernoulli-Experimente.md",
+                "file": "Mathe-Oberstufe Verzeichnis.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bernoulli-Experimente.md",
+                "file": "Mathe-Oberstufe Verzeichnis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bernoulli-Experimente.md"
+                "file": "Mathe-Oberstufe Verzeichnis.md"
               }
             }
           },
@@ -223,12 +185,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e43a349e7e1003ce",
+  "active": "fcaa59d01f505078",
   "lastOpenFiles": [
+    "README.md",
+    "Mathe-Oberstufe Verzeichnis.md",
+    "CAS-Befehle.md",
+    "Geraden in Parameterform.md",
     "Statistik bzw. Stochastik.md",
     "Bernoulli-Experimente.md",
-    "Mathe-Oberstufe Verzeichnis.md",
-    "Geraden in Parameterform.md",
     "Erwartungswert.md",
     "Analytische Geometrie.md",
     "Testen von Normalverteilung.md",
@@ -247,7 +211,6 @@
     "License",
     "Operatoren - NRW Abitur 2023-2024.md",
     "Erwartungswert und Standardabweichung - Wahrscheinlichkeitsdichte.md",
-    "README.md",
     "Z Test.md",
     "Gauß'sche Glockenfunktion.md",
     "Assets/Pasted image 20240124192502.png",
@@ -259,7 +222,6 @@
     "Assets/Pasted image 20240115205148.png",
     "Assets/Pasted image 20240111111057.png",
     "Das Integral - Approximation von Flächen.md",
-    "Ableitung.md",
     "Assets/Pasted image 20240105125733.png",
     "Assets/Pasted image 20240105125611.png",
     "Unbenannt.canvas",

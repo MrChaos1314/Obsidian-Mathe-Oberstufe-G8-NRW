@@ -3,7 +3,12 @@ cssclasses: hide_properties
 ---
 # Anleitung
 
-Im Folgenden wird erläutert, wie man sich Obsidian installiert und die Zusammenfassung des Mathestoffes der Oberstufe (G8 NRW ABI 2023/2024) aufruft.
+## Vorwort 
+
+Diese Zusammenfassung sollte als weiteres Mittel betrachtet werden, um für das Abitur zu lernen.
+Es wird empfohlen nicht gänzlich auf alles hier zu vertrauen - Menschen machen Fehler.
+Bei Typos/Fehlern/Verständnisproblemen kann man mich dennoch gerne ansprechen oder anschreiben, um diese zu korrigieren bzw. besser auszuformulieren oder eine weitere Erläuterung zu schreiben.
+Bei Schwierigkeiten das Programm zum Laufen zu bekommen kann man mich ebenfalls gerne anschreiben/ansprechen.
 
 ## Benötigte Software
 
@@ -22,21 +27,37 @@ Die folgende Anleitung bezieht sich auf Windows 11/10.
 - In dem Pop-Up von Obsidian klicke auf _Ordner als Vault öffnen_ (ändere ggf. die Sprache zu deutsch)
 - Wähle den Ordner aus, in dem die ZIP-Datei extrahiert/entpackt wurde
 - Vertraue den Ersteller des Vaults (trust), um den Vault zu optimieren 
-	(Sind die Einstellungen die ich verwendet habe. Sollte dem kein Vertrauen geschenkt werden, dann erwarte erst recht nicht das es gut ist)
+	(Sind die Einstellungen die ich verwendet habe. Mostly UI. Sollte dem kein Vertrauen geschenkt werden, dann erwarte erst recht nicht das es gut ist)
 - Verzweifeln, weil es Mathe ist und fühl dich frei darin es nach deinen belieben zu erweitern ;)
+	(bspw. Bilder an Stellen hinzufügen, die man ergänzen möchte mit den eigenen Formulierungen)
 
 ---
 # Mac OS
 
-Die folgende Anleitung ist noch nicht gegeben, da broke 
+Die folgende Anleitung ist noch nicht gegeben, da ich windows bevorzuge lol
 
 ## Vorgehen
 
 - idfk hab kein Apple 
-- TBD
+- TBD aber probably so ähnlich wie Windows
 
 ---
 # Mobile
 
-TBD (foreshadowing: du willst das nicht wollen)
+## Android
 
+TBD 
+
+## IOS
+
+- Downloade [Obsidian](https://obsidian.md/download) 
+- Erstelle einen neuen Vault
+- Benenne ihn wie du möchtest (bspw. Mathe Qualifikationsphase)
+- Lade dir den Repository als ZIP-Datei herunter (Grüner Button "< > Code" - als ZIP herunterladen)
+- Entpacke/Extrahiere die ZIP-Datei in Dateien von deinem Apple-Gerät
+- Verschiebe den Ordner **in** den erstellten Vault (bei Verwendung des
+	Beispiels in "Mathe Qualifikationsphase")
+	→ Gehe auf Dateien → Auf mein iPhone/iPad → Obsidian → Dein Vault
+- Vertraue den Ersteller des Vaults (trust), um den Vault zu optimieren 
+	(Sind die Einstellungen die ich verwendet habe. Mostly UI. Sollte dem kein Vertrauen geschenkt werden, dann erwarte erst recht nicht das es gut ist)
+- Verzweifeln, weil es Mathe ist und fühl dich frei darin es nach deinen belieben zu erweitern ;)
