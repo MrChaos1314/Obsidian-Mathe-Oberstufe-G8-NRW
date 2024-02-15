@@ -22,13 +22,13 @@
             }
           },
           {
-            "id": "fe94515f8ba660a2",
+            "id": "94222b5b09a03858",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
+                "file": "Steckbriefaufgaben.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Steckbriefaufgaben.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Steckbriefaufgaben.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Steckbriefaufgaben.md"
               }
             }
           },
@@ -198,16 +198,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fe94515f8ba660a2",
+  "active": "94222b5b09a03858",
   "lastOpenFiles": [
+    "Ganzrationale Funktionen.md",
     "Mathe-Oberstufe Verzeichnis.md",
-    "README.md",
-    "CAS-Befehle.md",
-    "Geraden in Parameterform.md",
-    "Statistik bzw. Stochastik.md",
-    "Bernoulli-Experimente.md",
-    "Erwartungswert.md",
+    "Regeln zur Ableitung - Scharfunktionen.md",
+    "Zusammengesetzte Funktionen.md",
+    "Kettenregel.md",
     "Analytische Geometrie.md",
+    "Steckbriefaufgaben.md",
+    "Lineare Gleichungssysteme.md",
+    "Extremwertprobleme.md",
+    "Ableitung.md",
+    "Geraden in Parameterform.md",
+    "Erwartungswert.md",
+    "Bernoulli-Experimente.md",
+    "README.md",
+    "Statistik bzw. Stochastik.md",
     "Testen von Normalverteilung.md",
     "Hypothesentests.md",
     "Normalverteilung.md",
@@ -217,7 +224,6 @@
     "Assets/Pasted image 20240202081536.png",
     "Assets/Pasted image 20240202081357.png",
     "Gauß'sche Glockenfunktion als Wahrscheinlichkeitsdichte (Normalverteilung).md",
-    "Lineare Gleichungssysteme.md",
     "Rechtsseitiger Hypothesentest.md",
     "Useless Information.md",
     "Linksseitiger Hypothesentest.md",
@@ -225,16 +231,10 @@
     "Operatoren - NRW Abitur 2023-2024.md",
     "Erwartungswert und Standardabweichung - Wahrscheinlichkeitsdichte.md",
     "Z Test.md",
-    "Gauß'sche Glockenfunktion.md",
     "Assets/Pasted image 20240124192502.png",
     "Assets/Pasted image 20240124190725.png",
-    "Stetige Zufallsgrößen.md",
-    "Wendepunkte.md",
-    "Extremwertprobleme.md",
-    "Ganzrationale Funktionen.md",
     "Assets/Pasted image 20240115205148.png",
     "Assets/Pasted image 20240111111057.png",
-    "Das Integral - Approximation von Flächen.md",
     "Assets/Pasted image 20240105125733.png",
     "Assets/Pasted image 20240105125611.png",
     "Unbenannt.canvas",
