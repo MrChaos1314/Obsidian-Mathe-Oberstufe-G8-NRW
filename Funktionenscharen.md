@@ -42,6 +42,7 @@ ___
 >![[Funktionenscharen#^4aca17]]
 
 <br>
+
 ___
 # Ortskurve
 
@@ -52,7 +53,7 @@ ___
 >
 $\qquad \qquad f_a(x) = \frac{1}{3a}x^3-x^2\ ($mit $a>0$ gilt $T_a(2a\mid -\frac{4}{3}a^2))$.
 >
->Durchläuft der Parameter $a$ alle zugelassenen Werte, so liegen alle Tiefpunkte auf einer Kurve[^1]. 
+>Durchläuft der Parameter $a$ alle zugelassenen Werte, so liegen alle Tiefpunkte auf einer Kurve. 
 Diese Kurve heißt **Ortskurve** oder **Ortslinie** der Tiefpunkte $T_a$.
 >
 >>[!info] Graphische Darstellung
@@ -144,8 +145,8 @@ ___
 
 |  | <br>$f'_a(x)=2x^3-2ax=2x(x^2-a)$<br><br> |
 | ---- | ---- |
-| <br>Die **Nullstellen** der **ersten Ableitung** sind Kandidaten für die **Extremstellen**.<br><br>**Setze** die **Nullstellen** in die **zweite Ableitung ein**, um zu **prüfen**, ob und um welche **Art** **Extremum** es sich handelt. | <br>**Nullstellen von** $f'_a$:<br>$x_1=0;\ x_2=\sqrt{a};\ x_3=-\sqrt{a}$<br><br>$f''_a(x)=6x^2-2a$<br><br>$f''_a(0)=-2a<0,\ da\ a>0\ (HP)$<br>$f''_a(-\sqrt{a})=4a>0,\ da\ a>0\ (TP)$<br>$f''_a(\sqrt{a})=4a>0,\ da\ a>0\ (TP)$<br><br>**Tiefpunkte:** $\displaystyle T_1(\sqrt{a}\mid -\frac{a^2}{2});\ T_2(-\sqrt{a}\mid -\frac{a^2}{2})$<br>&nbsp; |
-| <br>**Stelle** die Gleichung für die **$x$-Koordinate** nach $a$ **um**.<br><br>Durch **Einsetzen** in die Gleichung für die **$y$-Koordinate** ergibt sich die Gleichung der **Ortskurve**. | <br>$\begin{align} x &= \pm \sqrt{a} \mid \ ^2 \\ x^2 &= a \\ a &= x^2 \end{align}$<br><br>$\displaystyle y=-\frac{a^2}{2}$<br><br>$a=x^2$ in $y$ einsetzen<br><br>$\displaystyle y=-\frac{(x^2)^2}{2}=\frac{x^4}{2}$<br><br> |
+| <br><br>Die **Nullstellen** der **ersten Ableitung** sind Kandidaten für die **Extremstellen**.<br><br><br>**Setze** die **Nullstellen** in die **zweite Ableitung ein**, um zu **prüfen**, ob und um welche **Art** **Extremum** es sich handelt. | <br>**Nullstellen von** $f'_a$:<br>$x_1=0;\ x_2=\sqrt{a};\ x_3=-\sqrt{a}$<br><br>$f''_a(x)=6x^2-2a$<br><br>$f''_a(0)=-2a<0,\ da\ a>0\ (HP)$<br>$f''_a(-\sqrt{a})=4a>0,\ da\ a>0\ (TP)$<br>$f''_a(\sqrt{a})=4a>0,\ da\ a>0\ (TP)$<br><br>**Tiefpunkte:** $\displaystyle T_1(\sqrt{a}\mid -\frac{a^2}{2});\ T_2(-\sqrt{a}\mid -\frac{a^2}{2})$<br>&nbsp; |
+| <br>**Stelle** die Gleichung für die **$x$-Koordinate** nach $a$ **um**.<br><br><br>Durch **Einsetzen** in die Gleichung für die **$y$-Koordinate** ergibt sich die Gleichung der **Ortskurve**. | <br>$\begin{align} x &= \pm \sqrt{a} \mid \ ^2 \\ x^2 &= a \\ a &= x^2 \end{align}$<br><br>$\displaystyle y=-\frac{a^2}{2}$<br><br>$a=x^2$ in $y$ einsetzen<br><br>$\displaystyle y=-\frac{(x^2)^2}{2}=\frac{x^4}{2}$<br><br> |
 |  | <br>**Gleichung der Ortskurve:**<br><br>$\displaystyle t(x)=-\frac{x^4}{2}$<br><br> |
 
 ^b00d22

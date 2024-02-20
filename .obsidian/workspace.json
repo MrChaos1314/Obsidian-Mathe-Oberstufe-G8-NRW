@@ -22,19 +22,26 @@
             }
           },
           {
-            "id": "94222b5b09a03858",
+            "id": "57fd3a344754af3d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "9d41eda91d0e1294",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Steckbriefaufgaben.md",
-                "mode": "preview",
+                "file": "Ableitung.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -63,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "binomialvert",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +87,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -101,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Steckbriefaufgaben.md",
+                "file": "Mathe-Oberstufe Verzeichnis.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Steckbriefaufgaben.md",
+                "file": "Mathe-Oberstufe Verzeichnis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Steckbriefaufgaben.md"
+                "file": "Mathe-Oberstufe Verzeichnis.md"
               }
             }
           },
@@ -198,39 +206,39 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "94222b5b09a03858",
+  "active": "fcaa59d01f505078",
   "lastOpenFiles": [
     "Ganzrationale Funktionen.md",
     "Mathe-Oberstufe Verzeichnis.md",
-    "Regeln zur Ableitung - Scharfunktionen.md",
+    "Scharfunktionen.md",
     "Zusammengesetzte Funktionen.md",
+    "Funktionen im Sachzusammenhang.md",
+    "Extremwertprobleme.md",
     "Kettenregel.md",
-    "Analytische Geometrie.md",
+    "Regeln zur Ableitung - Scharfunktionen.md",
+    "Produktregel.md",
+    "Uneigentliche Integrale.md",
+    "Integralrechnung.md",
+    "Wendepunkte.md",
+    "Integralfunktion.md",
+    "Das Integral - Approximation von Flächen.md",
+    "Rekonstruktion.md",
+    "Ableitung.md",
+    "Funktionenscharen.md",
+    "Trassierung.md",
     "Steckbriefaufgaben.md",
     "Lineare Gleichungssysteme.md",
-    "Extremwertprobleme.md",
-    "Ableitung.md",
+    "Analytische Geometrie.md",
     "Geraden in Parameterform.md",
     "Erwartungswert.md",
     "Bernoulli-Experimente.md",
     "README.md",
     "Statistik bzw. Stochastik.md",
-    "Testen von Normalverteilung.md",
-    "Hypothesentests.md",
-    "Normalverteilung.md",
-    "Abituraufgaben - Normalverteilung.md",
     "Assets/Pasted image 20240202083933.png",
     "Assets/Pasted image 20240202081957.png",
     "Assets/Pasted image 20240202081536.png",
     "Assets/Pasted image 20240202081357.png",
-    "Gauß'sche Glockenfunktion als Wahrscheinlichkeitsdichte (Normalverteilung).md",
-    "Rechtsseitiger Hypothesentest.md",
-    "Useless Information.md",
-    "Linksseitiger Hypothesentest.md",
     "License",
-    "Operatoren - NRW Abitur 2023-2024.md",
-    "Erwartungswert und Standardabweichung - Wahrscheinlichkeitsdichte.md",
-    "Z Test.md",
     "Assets/Pasted image 20240124192502.png",
     "Assets/Pasted image 20240124190725.png",
     "Assets/Pasted image 20240115205148.png",
