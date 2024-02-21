@@ -20,26 +20,6 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "57fd3a344754af3d",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "9d41eda91d0e1294",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ableitung.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -208,8 +188,12 @@
   },
   "active": "fcaa59d01f505078",
   "lastOpenFiles": [
-    "Ganzrationale Funktionen.md",
+    "Das Integral - Approximation von Flächen.md",
+    "Integralrechnung.md",
     "Mathe-Oberstufe Verzeichnis.md",
+    "Wendepunkte.md",
+    "Ableitung.md",
+    "Ganzrationale Funktionen.md",
     "Scharfunktionen.md",
     "Zusammengesetzte Funktionen.md",
     "Funktionen im Sachzusammenhang.md",
@@ -218,12 +202,8 @@
     "Regeln zur Ableitung - Scharfunktionen.md",
     "Produktregel.md",
     "Uneigentliche Integrale.md",
-    "Integralrechnung.md",
-    "Wendepunkte.md",
     "Integralfunktion.md",
-    "Das Integral - Approximation von Flächen.md",
     "Rekonstruktion.md",
-    "Ableitung.md",
     "Funktionenscharen.md",
     "Trassierung.md",
     "Steckbriefaufgaben.md",

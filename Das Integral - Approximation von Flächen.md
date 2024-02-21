@@ -25,7 +25,7 @@ ___
 
 >[!hint] Definition - Integral
 >- $f$ sei eine Funktion auf dem Intervall $[a;\ b],\ n$ die Anzahl der Teilintervalle und $U_n$ bzw. $O_n$ einer Unter- bzw. Obersumme von orientierten Rechtecksflächen.
->- Dann heißt der Grenzwert $\lim\limits_{b \to a} \ U_n =\lim\limits_{n \to \infty} \ O_n$ **Integral** der Funktion $f$ zwischen den Grenzen $a$ und $b$.
+>- Dann heißt der Grenzwert $\lim\limits_{n \to \infty} \ U_n =\lim\limits_{n \to \infty} \ O_n$ **Integral** der Funktion $f$ zwischen den Grenzen $a$ und $b$.
 >- Man schreibt dafür $\displaystyle \int_a^b f(x)dx$ (lies: Integral von $f(x)$ von $a$ bis $b$). 
 >
 >>[!Info]
