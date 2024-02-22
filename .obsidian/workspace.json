@@ -20,8 +20,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "47e427308b24c089",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Uneigentliche Integrale.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -67,8 +80,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -89,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe-Oberstufe Verzeichnis.md",
+                "file": "Uneigentliche Integrale.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathe-Oberstufe Verzeichnis.md",
+                "file": "Uneigentliche Integrale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathe-Oberstufe Verzeichnis.md"
+                "file": "Uneigentliche Integrale.md"
               }
             }
           },
@@ -186,14 +198,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fcaa59d01f505078",
+  "active": "47e427308b24c089",
   "lastOpenFiles": [
-    "Das Integral - Approximation von Flächen.md",
     "Integralrechnung.md",
+    "Integralfunktion.md",
     "Mathe-Oberstufe Verzeichnis.md",
+    "Ganzrationale Funktionen.md",
+    "Funktionenscharen.md",
     "Wendepunkte.md",
     "Ableitung.md",
-    "Ganzrationale Funktionen.md",
+    "Sigma-Regel.md",
+    "Statistik bzw. Stochastik.md",
+    "Bernoulli-Experimente.md",
+    "Normalverteilung.md",
+    "Erwartungswert und Standardabweichung - Wahrscheinlichkeitsdichte.md",
+    "Das Integral - Approximation von Flächen.md",
+    "Rekonstruktion.md",
+    "Ableitung und Eulersche Zahl.md",
+    "Exponentialfunktionen.md",
+    "Lineare Gleichungssysteme.md",
     "Scharfunktionen.md",
     "Zusammengesetzte Funktionen.md",
     "Funktionen im Sachzusammenhang.md",
@@ -202,18 +225,7 @@
     "Regeln zur Ableitung - Scharfunktionen.md",
     "Produktregel.md",
     "Uneigentliche Integrale.md",
-    "Integralfunktion.md",
-    "Rekonstruktion.md",
-    "Funktionenscharen.md",
     "Trassierung.md",
-    "Steckbriefaufgaben.md",
-    "Lineare Gleichungssysteme.md",
-    "Analytische Geometrie.md",
-    "Geraden in Parameterform.md",
-    "Erwartungswert.md",
-    "Bernoulli-Experimente.md",
-    "README.md",
-    "Statistik bzw. Stochastik.md",
     "Assets/Pasted image 20240202083933.png",
     "Assets/Pasted image 20240202081957.png",
     "Assets/Pasted image 20240202081536.png",

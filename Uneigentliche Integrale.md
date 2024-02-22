@@ -65,7 +65,7 @@ ___
 >[!success]- Lösung
 >Um den Inhalt der nach rechts unbegrenzten Fläche zu untersuchen, berechnet man zunächst mit der variablen rechten Grenze $z$ den Inhalt der Fläche über dem Intervall $[1;\ z]$.
 >
->$\displaystyle \quad A(z)= \int_{z}^{1} \frac{2}{x^2}dx=\left[-\frac{2}{x}\right]_{1}^{z}=-\frac{2}{z}+2=2-\frac{2}{z}$
+>$\displaystyle \quad A(z)= \int_{1}^{z} \frac{2}{x^2}dx=\left[-\frac{2}{x}\right]_{1}^{z}=-\frac{2}{z}+2=2-\frac{2}{z}$
 >
 >Da $A(z) → 2$ für $z → \infty$ gilt, ist der Flächeninhalt der unbegrenzten Fläche vom Graphen $A=2$.
 >
