@@ -78,9 +78,3 @@ ___
 >
 
 <br>
-
-___
-# Annotation
-
->[!Danger] Nicht beachten
->Wenn keine Annotation: Löschen!

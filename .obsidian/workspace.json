@@ -22,24 +22,12 @@
             }
           },
           {
-            "id": "c8dcb26cdd09345a",
+            "id": "e97ac892fb917b28",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exponentielles Wachstum & Abnahme.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5f1886ec183fbb12",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathe-Oberstufe Verzeichnis.md",
+                "file": "Binomialverteilung.md",
                 "mode": "preview",
                 "source": false
               }
@@ -96,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5110321044922
+    "width": 246.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "bc2a9e59198800f3",
@@ -112,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exponentielles Wachstum & Abnahme.md",
+                "file": "Binomialverteilung.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exponentielles Wachstum & Abnahme.md",
+                "file": "Binomialverteilung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exponentielles Wachstum & Abnahme.md"
+                "file": "Binomialverteilung.md"
               }
             }
           },
@@ -209,19 +198,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c8dcb26cdd09345a",
+  "active": "e97ac892fb917b28",
   "lastOpenFiles": [
-    "Exponentialfunktionen.md",
-    "Mathe-Oberstufe Verzeichnis.md",
+    "Bernoulli-Experimente.md",
     "Statistik bzw. Stochastik.md",
+    "Erwartungswert und Standardabweichung.md",
     "Daten und Zufall - Beschreibende Statistik.md",
+    "Mathe-Oberstufe Verzeichnis.md",
+    "Exponentielles Wachstum & Abnahme.md",
+    "Exponentialfunktionen.md",
     "Integralrechnung.md",
     "Funktionen im Sachzusammenhang.md",
     "Zusammengesetzte Funktionen.md",
     "CAS-Befehle.md",
     "Mittlere Änderungsrate.md",
     "Momentane Änderungsrate.md",
-    "Exponentielles Wachstum & Abnahme.md",
     "Begrenztes Wachstum.md",
     "Scharfunktionen.md",
     "Regeln zur Ableitung - Scharfunktionen.md",
@@ -235,8 +226,6 @@
     "Ganzrationale Funktionen.md",
     "Funktionenscharen.md",
     "Wendepunkte.md",
-    "Ableitung.md",
-    "Sigma-Regel.md",
     "Assets/Pasted image 20240202083933.png",
     "Assets/Pasted image 20240202081957.png",
     "Assets/Pasted image 20240202081536.png",

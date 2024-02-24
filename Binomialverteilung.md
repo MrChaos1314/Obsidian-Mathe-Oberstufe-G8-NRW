@@ -45,7 +45,7 @@ ___
 # Beispiel
 
 >[!write] Aufgabe
->Herr Kruse kauft für seine Familie 3 Überraschungseier in der Hoffnung zumindest einen Crazy Croco zu bekommen, mit dem die Kinder und er anschlie0end spielen können.
+>Herr Kruse kauft für seine Familie 3 Überraschungseier in der Hoffnung zumindest einen Crazy Croco zu bekommen, mit dem die Kinder und er anschließend spielen können.
 >Laut Werbung ist in jedem siebten Ei ein Crazy Croco. 
 >
 >- Berechne die Wahrscheinlichkeit genau 1 Crazy Croco bei 3 Eiern zu erhalten. 
