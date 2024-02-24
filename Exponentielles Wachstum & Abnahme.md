@@ -10,7 +10,7 @@ ___
 
 >[!hint] Definition
 >**Exponentielles Wachstum** bzw. exponentielles Abnahme liegt vor, wenn ein Bestand von einem Zeitschritt zum nächsten um den gleichen **Wachstumsfaktor $a$** zu- bzw. abnimmt.
->Den Abstand zum Zeitpunkt $t$ kann man dann mithilfe einer Funktion $f$ mit
+>Den Bestand zum Zeitpunkt $t$ kann man dann mithilfe einer Funktion $f$ mit
 >
 >$\qquad \qquad \qquad f(t)=f(0)\cdot a^t$
 >
@@ -18,7 +18,7 @@ ___
 >
 >Mit $k=ln(a)$ gilt auch 
 >
->$\qquad \qquad \qquad f(t)=f(0)\cdot k \cdot e^{kt}$.
+>$\qquad \qquad \qquad f(t)=f(0) \cdot e^{kt}$.
 >
 >Die Ableitung $f'$ mit 
 >

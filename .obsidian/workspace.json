@@ -22,13 +22,25 @@
             }
           },
           {
-            "id": "47e427308b24c089",
+            "id": "c8dcb26cdd09345a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uneigentliche Integrale.md",
-                "mode": "source",
+                "file": "Exponentielles Wachstum & Abnahme.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5f1886ec183fbb12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathe-Oberstufe Verzeichnis.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -84,8 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5110321044922,
-    "collapsed": true
+    "width": 246.5110321044922
   },
   "right": {
     "id": "bc2a9e59198800f3",
@@ -101,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Uneigentliche Integrale.md",
+                "file": "Exponentielles Wachstum & Abnahme.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Uneigentliche Integrale.md",
+                "file": "Exponentielles Wachstum & Abnahme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Uneigentliche Integrale.md"
+                "file": "Exponentielles Wachstum & Abnahme.md"
               }
             }
           },
@@ -198,34 +209,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "47e427308b24c089",
+  "active": "c8dcb26cdd09345a",
   "lastOpenFiles": [
-    "Integralrechnung.md",
-    "Integralfunktion.md",
+    "Exponentialfunktionen.md",
     "Mathe-Oberstufe Verzeichnis.md",
+    "Statistik bzw. Stochastik.md",
+    "Daten und Zufall - Beschreibende Statistik.md",
+    "Integralrechnung.md",
+    "Funktionen im Sachzusammenhang.md",
+    "Zusammengesetzte Funktionen.md",
+    "CAS-Befehle.md",
+    "Mittlere Änderungsrate.md",
+    "Momentane Änderungsrate.md",
+    "Exponentielles Wachstum & Abnahme.md",
+    "Begrenztes Wachstum.md",
+    "Scharfunktionen.md",
+    "Regeln zur Ableitung - Scharfunktionen.md",
+    "Logarithmus.md",
+    "Basiswechsel.md",
+    "Ableitung und Eulersche Zahl.md",
+    "Mittelwerte - Integrale.md",
+    "Bogenlängen.md",
+    "Uneigentliche Integrale.md",
+    "Integralfunktion.md",
     "Ganzrationale Funktionen.md",
     "Funktionenscharen.md",
     "Wendepunkte.md",
     "Ableitung.md",
     "Sigma-Regel.md",
-    "Statistik bzw. Stochastik.md",
-    "Bernoulli-Experimente.md",
-    "Normalverteilung.md",
-    "Erwartungswert und Standardabweichung - Wahrscheinlichkeitsdichte.md",
-    "Das Integral - Approximation von Flächen.md",
-    "Rekonstruktion.md",
-    "Ableitung und Eulersche Zahl.md",
-    "Exponentialfunktionen.md",
-    "Lineare Gleichungssysteme.md",
-    "Scharfunktionen.md",
-    "Zusammengesetzte Funktionen.md",
-    "Funktionen im Sachzusammenhang.md",
-    "Extremwertprobleme.md",
-    "Kettenregel.md",
-    "Regeln zur Ableitung - Scharfunktionen.md",
-    "Produktregel.md",
-    "Uneigentliche Integrale.md",
-    "Trassierung.md",
     "Assets/Pasted image 20240202083933.png",
     "Assets/Pasted image 20240202081957.png",
     "Assets/Pasted image 20240202081536.png",
