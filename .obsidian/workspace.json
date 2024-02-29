@@ -22,12 +22,12 @@
             }
           },
           {
-            "id": "e97ac892fb917b28",
+            "id": "1c46ee19135e6650",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Binomialverteilung.md",
+                "file": "Lineare Gleichungssysteme.md",
                 "mode": "preview",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Binomialverteilung.md",
+                "file": "Lineare Gleichungssysteme.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Binomialverteilung.md",
+                "file": "Lineare Gleichungssysteme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Binomialverteilung.md"
+                "file": "Lineare Gleichungssysteme.md"
               }
             }
           },
@@ -198,13 +198,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e97ac892fb917b28",
+  "active": "1c46ee19135e6650",
   "lastOpenFiles": [
-    "Bernoulli-Experimente.md",
-    "Statistik bzw. Stochastik.md",
-    "Erwartungswert und Standardabweichung.md",
-    "Daten und Zufall - Beschreibende Statistik.md",
     "Mathe-Oberstufe Verzeichnis.md",
+    "Ganzrationale Funktionen.md",
+    "Normalverteilung.md",
+    "Daten und Zufall - Beschreibende Statistik.md",
+    "Statistik bzw. Stochastik.md",
+    "Hypothesentests.md",
+    "Bernoulli-Experimente.md",
+    "Sigma-Regel.md",
+    "Binomialverteilung.md",
+    "Erwartungswert und Standardabweichung.md",
     "Exponentielles Wachstum & Abnahme.md",
     "Exponentialfunktionen.md",
     "Integralrechnung.md",
@@ -221,11 +226,6 @@
     "Ableitung und Eulersche Zahl.md",
     "Mittelwerte - Integrale.md",
     "Bogenlängen.md",
-    "Uneigentliche Integrale.md",
-    "Integralfunktion.md",
-    "Ganzrationale Funktionen.md",
-    "Funktionenscharen.md",
-    "Wendepunkte.md",
     "Assets/Pasted image 20240202083933.png",
     "Assets/Pasted image 20240202081957.png",
     "Assets/Pasted image 20240202081536.png",
